@@ -65,7 +65,7 @@ Setelah selesai menulis atau mengubah kode/teks, klik tombol **Commit changes...
 
 ---
 
-Setelah Mahasiswa B menyelesaikan langkah **Commit changes** di atas, perubahan tersebut telah resmi tersimpan di akun GitHub miliknya secara daring. Langkah berikutnya bagi Mahasiswa B adalah melanjutkan ke proses **"4. Ajukan Pull Request"** seperti yang telah dijelaskan sebelumnya.
+Setelah Mahasiswa B menyelesaikan langkah. **Commit changes** di atas, perubahan tersebut telah resmi tersimpan di akun GitHub miliknya secara daring. Langkah berikutnya bagi Mahasiswa B adalah melanjutkan ke proses **"4. Ajukan Pull Request"** seperti yang telah dijelaskan sebelumnya.
 
 
 **4. Ajukan *Pull Request* (Di Situs Web GitHub)**
