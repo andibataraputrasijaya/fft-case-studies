@@ -139,7 +139,7 @@ Once your analysis is complete and your notebooks are fully executed (ensure all
 4. Select the **main** branch, and change the folder from `/(root)` to `/docs`.
 5. Click **Save**. Within a few minutes, your computational portfolio will be live!
 
-## Evaluation Criteria
+## Evaluation Criteria.
 Your submission will be evaluated on the following:
 1. **Mathematical Accuracy:** Correct implementation of the FFT, proper normalization, and accurate formulation of the frequency bins (Nyquist limits).
 2. **Computational Efficiency:** Clean, well-commented Python code without redundant loops.
